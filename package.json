@@ -1,0 +1,17 @@
+{
+    "name": "bb8_team",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "parcel ./src/index.html"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "parcel-bundler": "^1.12.5"
+    },
+    "dependencies": {
+        "sass": "^1.42.1"
+    }
+}

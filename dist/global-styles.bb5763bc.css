@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  background-color: #fff;
+  background-image: url(/background-fot.9eefbf1d.png);
+}
+
+.flex-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/*# sourceMappingURL=/global-styles.bb5763bc.css.map */
