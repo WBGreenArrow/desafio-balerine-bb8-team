@@ -1,3 +1,10 @@
+.header-index {
+  width: 100%;
+  top: 0;
+  z-index: 100;
+  position: fixed;
+}
+
 .header-container {
   background-color: #fff;
   box-shadow: 0 5px 10px rgba(124, 124, 124, 0.1);
